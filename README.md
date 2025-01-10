@@ -1,2 +1,1 @@
-# aulapratica
-Este repositório é um teste para aula prática desenvolvendo uma calculadora
+Este projeto é uma calculadora desenvolvida durante uma aula prática na faculdade. Foi construída utilizando as tecnologias HTML, CSS e JavaScript para criar uma interface simples e funcional, com o objetivo de demonstrar os conceitos de manipulação de DOM e interatividade na web. A calculadora permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
